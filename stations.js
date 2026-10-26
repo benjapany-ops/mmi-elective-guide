@@ -9,6 +9,16 @@ window.STATIONS = [
     "follow": [
       "What would success look like after four weeks?",
       "How would you prepare before departure?"
+    ],
+    "keywords": [
+      "patient-centred care",
+      "improve communication",
+      "understand teamwork",
+      "practise reflecting on unfamiliar situations",
+      "keep a de-identified reflection log",
+      "seek feedback",
+      "my peers",
+      "relevance to Thailand"
     ]
   },
   {
@@ -21,6 +31,16 @@ window.STATIONS = [
     "follow": [
       "How will you measure the impact of your peer-sharing session?",
       "What if a practice cannot be transferred to Thailand?"
+    ],
+    "keywords": [
+      "four levels",
+      "adaptability and clearer communication",
+      "share useful learning resources",
+      "represent it responsibly",
+      "peer-learning session",
+      "For Thailand",
+      "feedback",
+      "concrete learning resource"
     ]
   },
   {
@@ -33,6 +53,16 @@ window.STATIONS = [
     "follow": [
       "What if the supervisor insists?",
       "What would you say to the patient?"
+    ],
+    "keywords": [
+      "Patient safety comes first",
+      "level of supervision",
+      "within my approved role",
+      "patient consent",
+      "beyond my competence",
+      "decline",
+      "seek guidance",
+      "safe learning plan"
     ]
   },
   {
@@ -45,6 +75,15 @@ window.STATIONS = [
     "follow": [
       "How do you distinguish cultural difference from unsafe practice?",
       "What if your concern is dismissed?"
+    ],
+    "keywords": [
+      "clarify what happened",
+      "clinical and cultural context",
+      "patient’s preferences, dignity, consent, and safety",
+      "discuss my concern privately",
+      "immediate risk",
+      "seek timely help",
+      "reflect on my assumptions"
     ]
   },
   {
@@ -57,6 +96,15 @@ window.STATIONS = [
     "follow": [
       "What if the team is very busy?",
       "How would you handle a language barrier with a patient?"
+    ],
+    "keywords": [
+      "uncertain rather than guess",
+      "repeat or explain",
+      "read-back",
+      "flag the uncertainty",
+      "appropriate interpreter",
+      "respecting confidentiality",
+      "prevent the same misunderstanding"
     ]
   },
   {
@@ -69,6 +117,15 @@ window.STATIONS = [
     "follow": [
       "What would you say in the moment?",
       "What if the comment is repeated?"
+    ],
+    "keywords": [
+      "respond calmly",
+      "listen for specific feedback",
+      "communication styles differ",
+      "contribute clearly",
+      "practical step",
+      "everyone can participate",
+      "seek support"
     ]
   },
   {
@@ -81,6 +138,15 @@ window.STATIONS = [
     "follow": [
       "How would you assess whether your peer is in immediate danger?",
       "What would you delegate?"
+    ],
+    "keywords": [
+      "immediate safety risk",
+      "appropriate local help",
+      "safe accommodation",
+      "urgent support",
+      "communicate early",
+      "delegate a task",
+      "keep relevant people updated"
     ]
   },
   {
@@ -93,6 +159,16 @@ window.STATIONS = [
     "follow": [
       "Tell us about a real setback and what changed afterward.",
       "When would you seek additional support?"
+    ],
+    "keywords": [
+      "recognise the feeling",
+      "specific gap",
+      "small learning goal",
+      "constructive feedback",
+      "track improvement",
+      "sleep, connection, and support",
+      "distress persisted",
+      "real personal example"
     ]
   },
   {
@@ -105,6 +181,15 @@ window.STATIONS = [
     "follow": [
       "What if the friend refuses to remove the post?",
       "Is removing the post enough?"
+    ],
+    "keywords": [
+      "protect confidentiality",
+      "remove the identifiable content",
+      "without sharing it further",
+      "privacy contact",
+      "incident procedure",
+      "avoid downloading or redistributing",
+      "assess the exposure"
     ]
   },
   {
@@ -117,6 +202,16 @@ window.STATIONS = [
     "follow": [
       "What is one area you still need to develop?",
       "Give a real example that supports your claim."
+    ],
+    "keywords": [
+      "responsibility, curiosity",
+      "learn from feedback",
+      "genuine example",
+      "specific actions",
+      "respect my limits",
+      "contribute reliably",
+      "share practical learning",
+      "clear goals and feedback"
     ]
   },
   {
@@ -129,6 +224,17 @@ window.STATIONS = [
     "follow": [
       "What is a feasible question for a short elective?",
       "What if you cannot access patient data?"
+    ],
+    "keywords": [
+      "culturally responsive communication",
+      "mental health care",
+      "current work",
+      "supervisor",
+      "focused literature review",
+      "clear question",
+      "agreed methods",
+      "appropriate approvals and supervision",
+      "time and resources"
     ]
   },
   {
@@ -141,6 +247,16 @@ window.STATIONS = [
     "follow": [
       "Why Quebec rather than another Canadian province?",
       "Why Germany rather than Canada for your research question?"
+    ],
+    "keywords": [
+      "fit between my learning goals and the actual placement",
+      "Quebec",
+      "French and English requirements",
+      "Germany",
+      "language, supervision, and visiting-student eligibility",
+      "permitted activities",
+      "feasible learning plan",
+      "apply and share the learning in Thailand"
     ]
   }
 ];
