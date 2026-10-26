@@ -1,0 +1,146 @@
+window.STATIONS = [
+  {
+    "id": 1,
+    "topic": "MOTIVATION",
+    "question": "Why do you want to join an international medical elective?",
+    "framework": "WHY → LEARN → GROW",
+    "thai": "บอกเป้าหมายที่เฉพาะเจาะจงและเหตุผลที่การไปต่างประเทศช่วยเติมเต็ม",
+    "answer": "I want to learn how another healthcare team delivers patient-centred care in a different cultural setting. My goals are to improve communication, understand teamwork, and practise reflecting on unfamiliar situations. Before departure, I would agree on realistic learning objectives with my supervisor and prepare for the language requirements. During the elective, I would keep a de-identified reflection log and seek feedback. On returning, I would share a few practical lessons with my peers and consider their relevance to Thailand rather than assuming every approach will transfer directly.",
+    "follow": [
+      "What would success look like after four weeks?",
+      "How would you prepare before departure?"
+    ]
+  },
+  {
+    "id": 2,
+    "topic": "IMPACT",
+    "question": "How will this elective benefit you, your team, your university, and Thailand?",
+    "framework": "ME → TEAM → UNIVERSITY → COUNTRY",
+    "thai": "ตอบให้ครบสี่ระดับ พร้อมกิจกรรมหลังกลับ เช่น peer-sharing session",
+    "answer": "I see the benefit at four levels. For myself, I want to develop adaptability and clearer communication. For my team, I would share useful learning resources and invite discussion. For my university, I would represent it responsibly and deliver a short peer-learning session after returning. For Thailand, I would critically examine one practice that might improve care in our context. I would measure the immediate benefit through feedback and a concrete learning resource, while being realistic about what one short elective can achieve.",
+    "follow": [
+      "How will you measure the impact of your peer-sharing session?",
+      "What if a practice cannot be transferred to Thailand?"
+    ]
+  },
+  {
+    "id": 3,
+    "topic": "CLINICAL ETHICS",
+    "question": "What if a supervisor asks you to perform a procedure beyond your competence?",
+    "framework": "SAFETY → LIMITS → SUPERVISION",
+    "thai": "อย่ารับทำหัตถการเกินความสามารถเพราะเกรงใจ",
+    "answer": "Patient safety comes first. I would respectfully explain what I have and have not been trained to do and clarify the level of supervision. I would ask to observe or assist within my approved role, with appropriate patient consent. If the task remained beyond my competence, I would decline that part and seek guidance from the elective coordinator or another responsible supervisor. If a patient needed urgent help, I would call qualified staff and provide only assistance I am trained and authorised to give. Afterwards, I would discuss a safe learning plan.",
+    "follow": [
+      "What if the supervisor insists?",
+      "What would you say to the patient?"
+    ]
+  },
+  {
+    "id": 4,
+    "topic": "CULTURAL SENSITIVITY",
+    "question": "What if a practice abroad conflicts with your values?",
+    "framework": "OBSERVE → UNDERSTAND → ACT",
+    "thai": "เปิดใจต่อวัฒนธรรม แต่ไม่ละเลยหลักจริยธรรม",
+    "answer": "I would first clarify what happened and ask respectfully about the clinical and cultural context. A different practice is not automatically an unethical one. I would consider the patient’s preferences, dignity, consent, and safety, and discuss my concern privately with my supervisor. If there were an immediate risk, I would seek timely help through the appropriate clinical channel. Otherwise, I would use the host institution’s guidance to decide the next step. I would reflect on my assumptions while keeping patient welfare central.",
+    "follow": [
+      "How do you distinguish cultural difference from unsafe practice?",
+      "What if your concern is dismissed?"
+    ]
+  },
+  {
+    "id": 5,
+    "topic": "COMMUNICATION",
+    "question": "What if you misunderstand important clinical information?",
+    "framework": "ADMIT → CLARIFY → CONFIRM",
+    "thai": "ไม่เดาข้อมูลผู้ป่วย",
+    "answer": "I would acknowledge that I am uncertain rather than guess. I would ask the relevant team member to repeat or explain the information and then use a read-back to confirm the key details. If the information affected an immediate clinical decision, I would flag the uncertainty before any action was taken. For patient conversations, I would request an appropriate interpreter through the team when needed, respecting confidentiality. Afterwards, I would identify how to prevent the same misunderstanding, such as preparing terminology and checking instructions early.",
+    "follow": [
+      "What if the team is very busy?",
+      "How would you handle a language barrier with a patient?"
+    ]
+  },
+  {
+    "id": 6,
+    "topic": "TEAM CONFLICT",
+    "question": "What if a teammate says Thai students are too quiet to contribute?",
+    "framework": "PAUSE → LISTEN → DISCUSS",
+    "thai": "รับฟังโดยไม่ปกป้องตัวเองทันที",
+    "answer": "I would pause and respond calmly: “I would like to understand what made you feel that way.” I would listen for specific feedback rather than assume the intention. I could explain that communication styles differ, while recognising my responsibility to contribute clearly. I would suggest a practical step, such as preparing one observation for each team discussion and agreeing how everyone can participate. If comments became repeated stereotyping or undermined a respectful learning environment, I would seek support from the supervisor or coordinator.",
+    "follow": [
+      "What would you say in the moment?",
+      "What if the comment is repeated?"
+    ]
+  },
+  {
+    "id": 7,
+    "topic": "PRIORITIZATION",
+    "question": "What if you face a housing problem before a major presentation and a peer needs urgent help?",
+    "framework": "SAFETY → URGENCY → RESPONSIBILITY",
+    "thai": "ประเมินความปลอดภัยก่อน แล้วจัดลำดับความเร่งด่วน",
+    "answer": "I would first clarify whether my peer or I face an immediate safety risk. If someone were in danger, I would contact appropriate local help and the coordinator promptly. I would arrange safe accommodation through the host support team and ask what urgent support my peer needs. I would communicate early with the presentation lead and request a realistic adjustment or delegate a task if necessary. I would avoid promising to manage everything alone, keep relevant people updated, and return to the presentation once the urgent risks were addressed.",
+    "follow": [
+      "How would you assess whether your peer is in immediate danger?",
+      "What would you delegate?"
+    ]
+  },
+  {
+    "id": 8,
+    "topic": "RESILIENCE",
+    "question": "What if you feel less knowledgeable than other international students?",
+    "framework": "ACCEPT → ADAPT → IMPROVE",
+    "thai": "ยอมรับความรู้สึก ตั้งเป้าหมาย และขอคำปรึกษา",
+    "answer": "I would recognise the feeling without treating it as proof that I do not belong. I would identify a specific gap, set a small learning goal, and ask my supervisor for constructive feedback. For example, I could prepare one topic before rounds and contribute one thoughtful question. I would track improvement against my own starting point and maintain sleep, connection, and support. If distress persisted or affected my ability to learn safely, I would speak with the coordinator or an appropriate support service. I would use a real personal example when discussing resilience.",
+    "follow": [
+      "Tell us about a real setback and what changed afterward.",
+      "When would you seek additional support?"
+    ]
+  },
+  {
+    "id": 9,
+    "topic": "INTEGRITY",
+    "question": "What if a friend posts identifiable patient information online?",
+    "framework": "RECOGNIZE → ADDRESS → REPORT",
+    "thai": "ต้องจัดการการละเมิดความลับตามระเบียบ ไม่ใช่แค่ลบรูป",
+    "answer": "I would act promptly to protect confidentiality. I would ask my friend to remove the identifiable content and explain the concern without sharing it further. I would notify the appropriate supervisor or privacy contact and follow the institution’s incident procedure, even if the post had already been deleted. I would avoid downloading or redistributing patient information as evidence and seek guidance on any required documentation. The responsible team should assess the exposure and any patient communication. Afterwards, I would encourage a review of social media and confidentiality guidance.",
+    "follow": [
+      "What if the friend refuses to remove the post?",
+      "Is removing the post enough?"
+    ]
+  },
+  {
+    "id": 10,
+    "topic": "SELECTION",
+    "question": "Why should we select you?",
+    "framework": "STRENGTH → EVIDENCE → CONTRIBUTION",
+    "thai": "ยกหลักฐานจริง ไม่กล่าวว่าตนดีกว่าผู้อื่น",
+    "answer": "I would bring responsibility, curiosity, and a willingness to learn from feedback. I would support those strengths with a genuine example from my own studies or teamwork, explaining my specific actions and what I learned. During the elective, I would prepare carefully, respect my limits, and contribute reliably to the host team. After returning, I would share practical learning with peers. I also recognise that I still need to develop my confidence in unfamiliar settings, and I would use clear goals and feedback to work on that area.",
+    "follow": [
+      "What is one area you still need to develop?",
+      "Give a real example that supports your claim."
+    ]
+  },
+  {
+    "id": 11,
+    "topic": "RESEARCH INTEREST",
+    "question": "What research interests you, and why is your host institution a good fit?",
+    "framework": "INTEREST → FIT → LEARNING → APPLICATION",
+    "thai": "เชื่อมความสนใจเข้ากับทีมวิจัยและโอกาสที่เข้าถึงได้จริง",
+    "answer": "I am interested in how culturally responsive communication can improve engagement with mental health care. I would first review a specific host group’s current work and confirm that a supervisor can support a visiting student. A realistic starting project might be a focused literature review, with a clear question, agreed methods, and a short final presentation. Any patient data or participant involvement would require the appropriate approvals and supervision. I would choose a question that fits the available time and resources, then discuss how the findings might inform learning in Thailand.",
+    "follow": [
+      "What is a feasible question for a short elective?",
+      "What if you cannot access patient data?"
+    ]
+  },
+  {
+    "id": 12,
+    "topic": "COUNTRY FIT",
+    "question": "How would you choose between Quebec, Canada, and Germany?",
+    "framework": "RESEARCH → FIT → OPPORTUNITY → IMPACT",
+    "thai": "Quebec อาจต้องใช้ภาษาฝรั่งเศส เยอรมนีอาจต้องใช้เยอรมัน ตรวจเงื่อนไขโครงการจริง",
+    "answer": "I would choose by the fit between my learning goals and the actual placement. For Quebec, I would explore opportunities to learn about communication and culturally diverse care, while checking the specific programme’s French and English requirements. For Germany, I would review relevant clinical or research groups and confirm language, supervision, and visiting-student eligibility. In both cases, I would compare available projects, permitted activities, support, and costs. I would favour the placement with a feasible learning plan and an available supervisor, then explain how I would apply and share the learning in Thailand.",
+    "follow": [
+      "Why Quebec rather than another Canadian province?",
+      "Why Germany rather than Canada for your research question?"
+    ]
+  }
+];
