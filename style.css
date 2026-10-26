@@ -4,3 +4,5 @@
 @media(prefers-reduced-motion:no-preference){button{transition:background .18s,transform .18s}button:active{transform:translateY(1px)}}
 
 .answer-keyword{font-weight:700;color:var(--ink)}
+
+.speaking-cues{margin:24px 0;padding:22px;background:#f0f4e8;border:1px solid #d9e4c9;border-radius:12px}.wow-list{padding-left:22px;margin:16px 0}.wow-list li{padding:4px 0 8px;font-size:15px}.wow-list li::marker{color:#63824b}.wow-list span{display:block;color:var(--muted);font-size:12px;margin-top:2px}.speaking-bridges{border-top:1px solid #d4dfc5;padding-top:15px;margin-top:12px}.speaking-bridges h4{margin:0;font-size:15px}.speaking-bridges ol{padding-left:22px;font-size:14px;line-height:1.9}.speaking-bridges li{padding-left:4px;margin:9px 0}@media(max-width:760px){.speaking-cues{padding:17px}}

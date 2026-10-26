@@ -19,6 +19,29 @@ window.STATIONS = [
       "seek feedback",
       "my peers",
       "relevance to Thailand"
+    ],
+    "wow": [
+      [
+        "Patient-centred care",
+        "ดูแลโดยยึดผู้ป่วยเป็นศูนย์กลาง"
+      ],
+      [
+        "Cultural humility",
+        "เปิดใจเรียนรู้และตระหนักข้อจำกัดของตน"
+      ],
+      [
+        "Reflective practice",
+        "ทบทวนประสบการณ์เพื่อพัฒนา"
+      ],
+      [
+        "Bring learning back to Thailand",
+        "นำสิ่งที่เรียนรู้กลับมาปรับใช้"
+      ]
+    ],
+    "bridges": [
+      "My main motivation is to learn how to deliver patient-centred care in a different setting.",
+      "To make that practical, I would set clear learning goals and seek feedback.",
+      "After returning, I would share the lessons and consider their relevance to Thailand."
     ]
   },
   {
@@ -41,6 +64,29 @@ window.STATIONS = [
       "For Thailand",
       "feedback",
       "concrete learning resource"
+    ],
+    "wow": [
+      [
+        "Personal growth",
+        "พัฒนาตัวเอง"
+      ],
+      [
+        "Peer learning",
+        "แลกเปลี่ยนกับเพื่อน"
+      ],
+      [
+        "Responsible representation",
+        "เป็นตัวแทนมหาวิทยาลัยอย่างรับผิดชอบ"
+      ],
+      [
+        "Measurable impact",
+        "ผลลัพธ์ที่ประเมินได้"
+      ]
+    ],
+    "bridges": [
+      "I see the benefit at four levels: myself, my team, my university, and Thailand.",
+      "For example, I would organise a short peer-learning session.",
+      "I would evaluate its value through feedback and a useful learning resource."
     ]
   },
   {
@@ -63,6 +109,29 @@ window.STATIONS = [
       "decline",
       "seek guidance",
       "safe learning plan"
+    ],
+    "wow": [
+      [
+        "Patient safety first",
+        "ความปลอดภัยผู้ป่วยมาก่อน"
+      ],
+      [
+        "Recognise my limits",
+        "รู้ขอบเขตความสามารถตนเอง"
+      ],
+      [
+        "Appropriate supervision",
+        "มีผู้กำกับดูแลที่เหมาะสม"
+      ],
+      [
+        "Informed consent",
+        "ผู้ป่วยยินยอมโดยได้รับข้อมูล"
+      ]
+    ],
+    "bridges": [
+      "My first priority would be patient safety.",
+      "Because this is beyond my current competence, I would explain my limits and request appropriate supervision.",
+      "If it remained unsafe, I would decline the task and seek guidance."
     ]
   },
   {
@@ -84,6 +153,29 @@ window.STATIONS = [
       "immediate risk",
       "seek timely help",
       "reflect on my assumptions"
+    ],
+    "wow": [
+      [
+        "Cultural humility",
+        "ไม่ตัดสินเร็ว เปิดใจเข้าใจบริบท"
+      ],
+      [
+        "Patient autonomy",
+        "เคารพสิทธิการตัดสินใจของผู้ป่วย"
+      ],
+      [
+        "Respectful dialogue",
+        "พูดคุยด้วยความเคารพ"
+      ],
+      [
+        "Escalate safety concerns",
+        "แจ้งผู้รับผิดชอบเมื่อเสี่ยงต่อความปลอดภัย"
+      ]
+    ],
+    "bridges": [
+      "I would first try to understand the clinical and cultural context.",
+      "At the same time, I would consider the patient’s rights and safety.",
+      "If I identified a safety concern, I would raise it respectfully through the appropriate channel."
     ]
   },
   {
@@ -105,6 +197,29 @@ window.STATIONS = [
       "appropriate interpreter",
       "respecting confidentiality",
       "prevent the same misunderstanding"
+    ],
+    "wow": [
+      [
+        "Acknowledge uncertainty",
+        "ยอมรับเมื่อไม่แน่ใจ"
+      ],
+      [
+        "Clarify, never guess",
+        "ถามให้ชัด ไม่เดา"
+      ],
+      [
+        "Closed-loop communication",
+        "ทวนสารให้ผู้ส่งยืนยันความถูกต้อง"
+      ],
+      [
+        "Appropriate interpreter",
+        "ขอล่ามที่เหมาะสมผ่านทีม"
+      ]
+    ],
+    "bridges": [
+      "I would acknowledge that I am not certain about the information.",
+      "To avoid an error, I would clarify it and read back the key details.",
+      "Before any action, I would confirm that the team and I share the same understanding."
     ]
   },
   {
@@ -126,6 +241,29 @@ window.STATIONS = [
       "practical step",
       "everyone can participate",
       "seek support"
+    ],
+    "wow": [
+      [
+        "Active listening",
+        "ฟังเพื่อเข้าใจ"
+      ],
+      [
+        "Constructive feedback",
+        "ข้อเสนอแนะเพื่อพัฒนา"
+      ],
+      [
+        "Inclusive teamwork",
+        "เปิดโอกาสให้ทุกคนมีส่วนร่วม"
+      ],
+      [
+        "Professional assertiveness",
+        "สื่อสารจุดยืนอย่างสุภาพและชัดเจน"
+      ]
+    ],
+    "bridges": [
+      "I would first listen and ask for a specific example.",
+      "I would then explain my perspective calmly and remain open to constructive feedback.",
+      "To move forward, I would suggest a practical way for everyone to contribute."
     ]
   },
   {
@@ -147,6 +285,29 @@ window.STATIONS = [
       "communicate early",
       "delegate a task",
       "keep relevant people updated"
+    ],
+    "wow": [
+      [
+        "Immediate safety",
+        "ประเมินความปลอดภัยทันที"
+      ],
+      [
+        "Prioritise by urgency",
+        "จัดลำดับตามความเร่งด่วน"
+      ],
+      [
+        "Delegate appropriately",
+        "แบ่งงานให้คนที่เหมาะสม"
+      ],
+      [
+        "Communicate early",
+        "แจ้งทีมก่อนปัญหาบานปลาย"
+      ]
+    ],
+    "bridges": [
+      "I would first check whether anyone is in immediate danger.",
+      "Based on urgency, I would arrange support and delegate where appropriate.",
+      "I would keep the team informed and return to the presentation once urgent risks were addressed."
     ]
   },
   {
@@ -169,6 +330,29 @@ window.STATIONS = [
       "sleep, connection, and support",
       "distress persisted",
       "real personal example"
+    ],
+    "wow": [
+      [
+        "Self-awareness",
+        "รู้เท่าทันความรู้สึกและข้อจำกัด"
+      ],
+      [
+        "Growth mindset",
+        "มองช่องว่างเป็นโอกาสพัฒนา"
+      ],
+      [
+        "Small, achievable goals",
+        "ตั้งเป้าหมายเล็กที่ทำได้จริง"
+      ],
+      [
+        "Seek feedback and support",
+        "ขอคำแนะนำและความช่วยเหลือ"
+      ]
+    ],
+    "bridges": [
+      "I would recognise the feeling and identify a specific learning gap.",
+      "Rather than compare myself with others, I would set a small goal and seek feedback.",
+      "I would review my progress and ask for further support if needed."
     ]
   },
   {
@@ -190,6 +374,29 @@ window.STATIONS = [
       "incident procedure",
       "avoid downloading or redistributing",
       "assess the exposure"
+    ],
+    "wow": [
+      [
+        "Patient confidentiality",
+        "รักษาความลับผู้ป่วย"
+      ],
+      [
+        "Minimise further exposure",
+        "ลดการเผยแพร่ข้อมูลต่อ"
+      ],
+      [
+        "Professional accountability",
+        "รับผิดชอบตามบทบาทวิชาชีพ"
+      ],
+      [
+        "Follow the reporting procedure",
+        "รายงานตามขั้นตอนของสถาบัน"
+      ]
+    ],
+    "bridges": [
+      "My immediate concern would be patient confidentiality.",
+      "I would ask for the post to be removed without sharing it further.",
+      "Even after removal, I would follow the institution’s reporting procedure."
     ]
   },
   {
@@ -212,6 +419,29 @@ window.STATIONS = [
       "contribute reliably",
       "share practical learning",
       "clear goals and feedback"
+    ],
+    "wow": [
+      [
+        "Evidence, not just claims",
+        "ยกหลักฐานจริงรองรับจุดแข็ง"
+      ],
+      [
+        "Adaptability",
+        "ปรับตัวต่อสถานการณ์ใหม่"
+      ],
+      [
+        "Reliable contribution",
+        "ร่วมงานอย่างรับผิดชอบและไว้ใจได้"
+      ],
+      [
+        "Commitment to learning",
+        "พร้อมเรียนรู้และรับคำแนะนำ"
+      ]
+    ],
+    "bridges": [
+      "One strength I would bring is adaptability.",
+      "A real example from my experience is…",
+      "That experience taught me… and I would apply that lesson by contributing reliably to the host team."
     ]
   },
   {
@@ -235,6 +465,29 @@ window.STATIONS = [
       "agreed methods",
       "appropriate approvals and supervision",
       "time and resources"
+    ],
+    "wow": [
+      [
+        "Focused research question",
+        "คำถามวิจัยเฉพาะเจาะจง"
+      ],
+      [
+        "Supervisor fit",
+        "ตรงกับความเชี่ยวชาญและเวลาของอาจารย์"
+      ],
+      [
+        "Feasibility",
+        "ทำได้จริงในเวลาและทรัพยากรที่มี"
+      ],
+      [
+        "Ethical approval",
+        "ขออนุมัติจริยธรรมเมื่อจำเป็น"
+      ]
+    ],
+    "bridges": [
+      "I am interested in a focused question about culturally responsive communication in mental health care.",
+      "To keep the project feasible, I would agree on a clear scope with a suitable supervisor.",
+      "Any use of patient data would require appropriate approvals and supervision."
     ]
   },
   {
@@ -257,6 +510,29 @@ window.STATIONS = [
       "permitted activities",
       "feasible learning plan",
       "apply and share the learning in Thailand"
+    ],
+    "wow": [
+      [
+        "Programme fit",
+        "เลือกให้ตรงเป้าหมายและโอกาสจริง"
+      ],
+      [
+        "Language readiness",
+        "เตรียมภาษาตามข้อกำหนดของโครงการ"
+      ],
+      [
+        "Supervision and eligibility",
+        "ตรวจผู้ดูแลและคุณสมบัติผู้สมัคร"
+      ],
+      [
+        "Transferable learning",
+        "พิจารณาบทเรียนที่นำกลับมาปรับใช้ได้"
+      ]
+    ],
+    "bridges": [
+      "I would compare Quebec and Germany by the fit with my learning goals.",
+      "In particular, I would check language requirements, supervision, eligibility, and available activities.",
+      "I would choose the placement with a feasible plan and explain how I would share the learning afterwards."
     ]
   }
 ];
