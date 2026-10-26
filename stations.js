@@ -492,21 +492,19 @@ window.STATIONS = [
   },
   {
     "id": 12,
-    "topic": "COUNTRY FIT",
-    "question": "How would you choose between Quebec, Canada, and Germany?",
+    "topic": "DESTINATION FIT",
+    "question": "How would you choose between two international research placements?",
     "framework": "RESEARCH → FIT → OPPORTUNITY → IMPACT",
-    "thai": "Quebec อาจต้องใช้ภาษาฝรั่งเศส เยอรมนีอาจต้องใช้เยอรมัน ตรวจเงื่อนไขโครงการจริง",
-    "answer": "I would choose by the fit between my learning goals and the actual placement. For Quebec, I would explore opportunities to learn about communication and culturally diverse care, while checking the specific programme’s French and English requirements. For Germany, I would review relevant clinical or research groups and confirm language, supervision, and visiting-student eligibility. In both cases, I would compare available projects, permitted activities, support, and costs. I would favour the placement with a feasible learning plan and an available supervisor, then explain how I would apply and share the learning in Thailand.",
+    "thai": "เลือกจากโครงการ ผู้ดูแล ภาษา และบทบาทที่ทำได้จริง ไม่ใช่ชื่อเสียงเพียงอย่างเดียว",
+    "answer": "I would choose by the fit between my learning goals and the actual placement. For each host institution, I would review relevant clinical or research groups and confirm language requirements, supervision, and visiting-student eligibility. I would compare available projects, permitted activities, support, and costs. I would also check whether a suitable supervisor can support a realistic learning plan within the exchange period. I would favour the placement with a feasible learning plan and an available supervisor, then explain how I would apply and share the learning in Thailand.",
     "follow": [
-      "Why Quebec rather than another Canadian province?",
-      "Why Germany rather than Canada for your research question?"
+      "Why this host institution rather than another?",
+      "How would you compare two projects with different research methods?"
     ],
     "keywords": [
       "fit between my learning goals and the actual placement",
-      "Quebec",
-      "French and English requirements",
-      "Germany",
-      "language, supervision, and visiting-student eligibility",
+      "language requirements",
+      "supervision",
       "permitted activities",
       "feasible learning plan",
       "apply and share the learning in Thailand"
@@ -530,7 +528,7 @@ window.STATIONS = [
       ]
     ],
     "bridges": [
-      "I would compare Quebec and Germany by the fit with my learning goals.",
+      "I would compare the placements by the fit with my learning goals.",
       "In particular, I would check language requirements, supervision, eligibility, and available activities.",
       "I would choose the placement with a feasible plan and explain how I would share the learning afterwards."
     ]
